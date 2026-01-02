@@ -21,16 +21,20 @@ This is my personal website where I showcase my projects, skills, and experience
 - Projects showcase
 - About me section
 - Contact section
+- Admin dashboard
+- Spam blocker
+- Mailing system to the business mail
 
 ---
 
 ## 📁 Project Structure
 .
 ├── index.html
-├── style.css
-├── script.js
-└── assets/
-
+├── ............
+└── assets/js
+   ├── script.js
+└── assets/css
+   ├── style.css
 ---
 
 ## 🎯 Purpose
@@ -45,6 +49,8 @@ This website was created to:
 - Structuring a real website project
 - Responsive layouts with CSS
 - Basic DOM manipulation with JavaScript
+- Nods basics
+- Back end security
 - Deploying a website using GitHub Pages
 
 ---
