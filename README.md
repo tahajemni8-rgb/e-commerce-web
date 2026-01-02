@@ -4,7 +4,7 @@ This is my personal website where I showcase my projects, skills, and experience
 
 ## 🚀 Live Demo
 👉 https://tahajemni8-rgb.github.io  
-(*replace `username` with your GitHub username*)
+
 
 ---
 
